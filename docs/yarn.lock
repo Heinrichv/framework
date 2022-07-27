@@ -10066,6 +10066,11 @@ scule@^0.2.1:
   resolved "https://registry.yarnpkg.com/scule/-/scule-0.2.1.tgz#0c1dc847b18e07219ae9a3832f2f83224e2079dc"
   integrity sha512-M9gnWtn3J0W+UhJOHmBxBTwv8mZCan5i1Himp60t6vvZcor0wr+IM0URKmIglsWJ7bRujNAVVN77fp+uZaWoKg==
 
+scule@^0.3.0:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/scule/-/scule-0.3.1.tgz#3d55c009867665663e86198689c7d9e7c6da7092"
+  integrity sha512-uvBcWLeHvU+r/Jf7FKulndKqxWLTJkqSNRrcFFjyu8ZtvmW0XvXJTRodZYm+yLAQkHTDoLIjXW0GgAXKgS9HLA==
+
 section-matter@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/section-matter/-/section-matter-1.0.0.tgz#e9041953506780ec01d59f292a19c7b850b84167"
